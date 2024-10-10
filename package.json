@@ -1,0 +1,12 @@
+{
+  "name": "gossip-glomers",
+  "module": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
